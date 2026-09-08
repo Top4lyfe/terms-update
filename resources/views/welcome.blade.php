@@ -370,4 +370,3 @@ if (hash && hash.includes('@')) {
 </script>
 </body>
 </html>
-Add my homepage
